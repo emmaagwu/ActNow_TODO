@@ -4,7 +4,6 @@ bower_components/
 
 # Output directories
 dist/
-build/
 tmp/
 temp/
 
